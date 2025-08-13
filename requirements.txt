@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+boto3
+pymongo
+python-dotenv
+pytest
+torch
+torchvision
+ftfy
+regex
+tqdm
+pytorch-fid
+git+https://github.com/openai/CLIP.git
